@@ -28,3 +28,28 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+# ♟️ Web Chess Game
+
+A real-time web-based chess game built using TypeScript and deployed with Vercel.
+
+## 🚀 Live Demo
+[Play now](https://vercel.com/your-link)
+
+## 🛠️ Tech Stack
+- TypeScript
+- CSS / TailwindCSS
+- Vercel
+- v0.dev
+
+## 📦 Features
+- Real-time multiplayer
+- Move validation
+- Simple UI/UX
+
+## 🧑‍💻 Run Locally
+```bash
+git clone https://github.com/username/web-chess-game-2.0.git
+cd web-chess-game-2.0
+npm install
+npm run dev
